@@ -1,4 +1,6 @@
-# TP4 — Chat Unidirectionnel UDP
+# TP 4 : Sockets en mode non-connecté UDP
+Activité :  Echange des datagrammes entre C/S en mode non-connecté
+            Service de chat C/S avec UDP
 
 ## Type de chat
 Chat unidirectionnel (un seul client) — mode non-connecté UDP.
